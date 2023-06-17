@@ -30,6 +30,9 @@ To use the Portfolio Website template, follow these steps:
 
 5. Deploy the website to a web server or hosting platform of your choice to make it accessible on the internet.
 
+# **Home Page**
+![Alternate](/JS_CSS_PortfolioProject-master/Home.png)
+
 # **Directory Structure**
 
 The project directory structure is as follows:
